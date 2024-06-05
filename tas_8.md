@@ -6,7 +6,7 @@
 ######  Evidencia de instancia
 
    
-<img src="capturas/evidencia.png"> 
+<img src="Capturas/evidencia.png"> 
 
 + ### Creacion de tablas
 
